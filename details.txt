@@ -1,2 +1,2 @@
 Project Name: Social Paper
-Project Desc: Social Paper is a peer review platform that is designed to encourage scholarly reviews of articles and publication among faculty and students.
+Project Desc: Social Paper is a peer review platform that is designed to encourage scholarly review of articles and publication among faculty and students.
